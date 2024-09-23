@@ -1,7 +1,7 @@
-import React from 'react'
-import bannerImg from '../../coffee-cover.jpg'
-import AppStoreImg from '../../app_store.png'
-import PlayStoreImg from '../../play_store.png'
+import React from 'react';
+import bannerImg from '../../coffee-cover.jpg';
+import AppStoreImg from '../../app_store.png';
+import PlayStoreImg from '../../play_store.png';
 import { motion } from 'framer-motion';
 
 const BannerStyle = {
