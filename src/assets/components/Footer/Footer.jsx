@@ -1,8 +1,8 @@
-import React from 'react'
-import { FaFacebook, FaGoogle, FaInstagram, FaPhone, FaTelegram } from 'react-icons/fa'
-import { FaMapLocation } from 'react-icons/fa6'
-import CreditCards from '../../credit-cards.webp'
-import { motion } from 'framer-motion'
+import React from 'react';
+import { FaFacebook, FaGoogle, FaInstagram, FaPhone, FaTelegram } from 'react-icons/fa';
+import { FaMapLocation } from 'react-icons/fa6';
+import CreditCards from '../../credit-cards.webp';
+import { motion } from 'framer-motion';
 
 const Footer = () => {
   return (
